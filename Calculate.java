@@ -37,7 +37,7 @@ public class Calculate extends javax.swing.JFrame {
         btm_cos = new javax.swing.JButton();
         btm_tan = new javax.swing.JButton();
         btm_sin = new javax.swing.JButton();
-        btm_csc = new javax.swing.JButton();
+        btm_csc = new javax.swing
         btm_sec = new javax.swing.JButton();
         btm_cot = new javax.swing.JButton();
         btm_power = new javax.swing.JButton();
