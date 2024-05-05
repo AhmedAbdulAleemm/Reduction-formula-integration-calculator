@@ -8,7 +8,7 @@ package Main;
  *
  * @author lenovo
  */
-public class Calculate extends javax.swing.JFrame {
+public class Calculate extends jvax.swing.JFrame {
     
     
     String function ;
@@ -48,15 +48,8 @@ public class Calculate extends javax.swing.JFrame {
         btm_5 = new javax.swing.JButton();
         btm_4 = new javax.swing.JButton();
         btm_3 = new javax.swing.JButton();
-        btm_6 = new javax.swing.JButton();
-        btm_2 = new javax.swing.JButton();
-        btm_1 = new javax.swing.JButton();
-        btm_0 = new javax.swing.JButton();
-        btm_min = new javax.swing.JButton();
-        btm_min1 = new javax.swing.JButton();
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-
+        
         edt_text.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 operation(evt);
